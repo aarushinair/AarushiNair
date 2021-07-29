@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aarushinair
 - 👀 I’m a Computer Science Engineering Student (6th Semester)
 - 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
-- 🌱 I follow these hashtags #GirlsWhoCode #WomenInTech #WomenInIT #WomenInSTEM #CyberSecurity #QuantumComputing #BlockChain #AI #ML
+- 🌱 #GirlsWhoCode #WomenInTech #WomenInIT #WomenInSTEM #CyberSecurity #QuantumComputing #BlockChain #AI #ML
 - 📫 How to reach me: https://www.linkedin.com/in/aarushinair/
 
 <!---
