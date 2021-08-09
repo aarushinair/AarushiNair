@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
-- 👀  I’m a Computer Science Engineering Student (6th Semester)
+- 👀  I’m a Computer Science Engineering Student
 - 💞️  I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
 - 🌱  #GirlsWhoCode #WomenInTech #WomenInIT #WomenInSTEM #CyberSecurity #QuantumComputing #BlockChain #AI #ML
 - 📫  How to reach me: https://www.linkedin.com/in/aarushinair/
